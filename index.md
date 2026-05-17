@@ -75,6 +75,12 @@ hide_tagline: false
       <p>This session simplifies common AI terms by breaking down complex ideas into clear, practical explanations.</p>
       <a href="https://www.meetup.com/malta-microsoft-ai-user-group/events/314806167/" target="_blank" rel="noopener">View event</a>
     </article>
+    <article class="event-card" data-event-date="2026-06-24">
+      <p class="event-kicker">Jun 24</p>
+      <h3>Microsoft Build //localhost:luqa</h3>
+      <p>Microsoft Build //localhost is a global series of **community-led,** **hands-on, in-person learning events** designed to extend Microsoft Build content directly into local technical communities.</p>
+      <a href="https://www.meetup.com/malta-microsoft-ai-user-group/events/314819120/" target="_blank" rel="noopener">View event</a>
+    </article>
     <article class="event-card" data-event-date="2026-06-27">
       <p class="event-kicker">Jun 27</p>
       <h3>Is SpecKit the future for software development</h3>
